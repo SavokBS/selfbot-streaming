@@ -19,7 +19,7 @@ client.on('message', (message) => {
         } else {
             client.user.setActivity(command, {
                 type: 'STREAMING',
-                url: 'https://twitch.tv/iHDeveloper'
+                url: 'https://discord.gg/xcthcCQdff'
             })
             console.log("Set the streaming to " + command)
         }
